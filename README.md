@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on NLP
+- 🔭 I’m currently interested on Probability and Analysis
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on my project
 - 💬 Ask me about Mathematics and Statistics
